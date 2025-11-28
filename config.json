@@ -1,0 +1,19 @@
+{
+  "botName": "بوت واتساب المتطور",
+  "owner": "GitHub",
+  "prefix": "!",
+  "version": "2.0.0",
+  "description": "بوت واتساب متطور مع دعم الأزرار التفاعلية ونظام البلاجنز",
+  "language": "ar",
+  "timezone": "Africa/Cairo",
+  "features": {
+    "autoRead": false,
+    "autoTyping": true,
+    "autoRecording": false,
+    "antiSpam": true
+  },
+  "limits": {
+    "messagePerMinute": 20,
+    "commandCooldown": 3
+  }
+}
